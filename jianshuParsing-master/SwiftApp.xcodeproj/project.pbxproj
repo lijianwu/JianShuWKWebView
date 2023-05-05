@@ -661,7 +661,7 @@
 					"@executable_path/Frameworks",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.leesonpeng.SwiftApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mayigam.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = mayigametest_dev;
 				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/SwiftApp/Bridging-Header.h";
